@@ -1,6 +1,6 @@
 # 🧠 Atividade de Lógica de Programação
 
-Este repositório contém a resolução de uma lista de **10 exercícios de Lógica de Programação**, desenvolvidos com o objetivo de praticar estruturas fundamentais da programação, raciocínio lógico e resolução de problemas utilizando **JavaScript**.gi
+Este repositório contém a resolução de uma lista de **10 exercícios de Lógica de Programação**, desenvolvidos com o objetivo de praticar estruturas fundamentais da programação, raciocínio lógico e resolução de problemas utilizando **JavaScript**
 
 Ao longo da atividade, foram aplicados conceitos como operações matemáticas, estruturas condicionais, laços de repetição, vetores, ordenação e manipulação de dados.
 
