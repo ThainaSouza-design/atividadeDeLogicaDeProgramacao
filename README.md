@@ -52,7 +52,7 @@ Sistema que verifica se um funcionário está apto para solicitar aposentadoria 
 
 ## 🛠️ Tecnologias utilizadas
 
-* JavaScript (ES6+)
+* JavaScript
 * Visual Studio Code
 
 ---
