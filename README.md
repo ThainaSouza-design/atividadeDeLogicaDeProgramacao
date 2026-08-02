@@ -91,4 +91,6 @@ O principal objetivo desta lista foi fortalecer a lógica de programação por m
 
 ## 👨‍💻 Autor
 
+https://github.com/ThainaSouza-design
+
 Atividade desenvolvida como prática de **Lógica de Programação**, com foco no desenvolvimento do raciocínio lógico, resolução de problemas e aprimoramento dos conhecimentos em JavaScript.
